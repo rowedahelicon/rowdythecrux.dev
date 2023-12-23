@@ -76,48 +76,49 @@ main {
     -moz-osx-font-smoothing: grayscale;
   }
   
-  .icon-html5:before {
-    content: "\e907";
+  .icon-bluesky:before {
+    content: "\e901";
   }
-  .icon-css3:before {
-    content: "\e908";
-  }
-  .icon-github:before {
-    content: "\e909";
-  }
-  .icon-weasyl:before {
-    content: "\e90a";
-  }
-  .icon-steam:before {
-    content: "\e906";
-  }
-  .icon-mastodon:before {
+  .icon-discord:before {
     content: "\e902";
   }
-  .icon-patreon:before {
+  .icon-furaffinity:before {
     content: "\e903";
   }
   .icon-ko-fi:before {
     content: "\e904";
   }
-  .icon-furaffinity:before {
+  .icon-patreon:before {
     content: "\e905";
   }
-  .icon-discord:before {
-    content: "\e901";
+  .icon-mastodon:before {
+    content: "\e906";
   }
-  .icon-telegram:before {
-    content: "\e90b";
+  .icon-steam:before {
+    content: "\e907";
   }
-  .icon-square:before {
+  .icon-weasyl:before {
+    content: "\e908";
+  }
+  .icon-css3:before {
+    content: "\e909";
+  }
+  .icon-html5:before {
     content: "\e900";
   }
+  .icon-telegram:before {
+    content: "\e90a";
+  }
   .icon-home:before {
-    content: "\e90c";
+    content: "\e90b";
   }
   .icon-twitter:before {
     content: "\ea96";
   }
+  .icon-github:before {
+    content: "\eab0";
+  }
   .icon-trello:before {
     content: "\eab3";
   }
+  
